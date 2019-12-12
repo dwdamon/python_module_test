@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="python-module-test-damon",
+    name="python-module-test",
     version="0.0.1",
     author="David Damon",
     author_email="dave.damon@freightverify.com",
